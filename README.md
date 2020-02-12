@@ -1,9 +1,9 @@
 **UX/UI Human Computer Interface Fundamentals Examples** <br/>
 
-Simple Paint: User interfaces with status, size, and multi-modes <br/>
+Simple Paint: User interfaces with status, size, and modes <br/>
 - http://alpha.editor.p5js.org/C/sketches/H1yn9BRUz <br/>
 
-Intuitive Ball Game: Randomized ball trajectories, obstacles and sizes. Dragging action and keyboard input part of UX. <br/>
+Intuitive Ball Game: Randomized linear ball trajectories, obstacles and sizes. Dragging action and keyboard input part of UX. <br/>
 - http://alpha.editor.p5js.org/C/sketches/Bk1fhnRIz <br/>
 
 Visual Coding: Generation of 'drawn' parameterized shapes <br/>

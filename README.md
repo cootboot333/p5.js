@@ -20,5 +20,5 @@ http://alpha.editor.p5js.org/C/sketches/Bk1fhnRIz <br/>
 
 Visual Coding: Generation of 'drawn' parameterized shapes <br/>
 Randomization --- http://alpha.editor.p5js.org/C/sketches/HJ0dEbZIf (random circles) <br/>
-Object Parameters --- shttp://alpha.editor.p5js.org/C/sketches/HkKFaVrUM (parameterized explosion) <br/>
+Object Parameters --- http://alpha.editor.p5js.org/C/sketches/HkKFaVrUM (parameterized explosion) <br/>
 
